@@ -7,23 +7,16 @@
 
 ## Request Access to Open Source Library
 The central assets used in this project are described below and available in a private GitHub repository. To request access to this repository, fill out the following form with a brief description of the reason behind your interest.
-<form
-  action="https://formspree.io/f/meqpvkrj"
-  method="POST"
->
-  <label>
-    Your email:
-    <input type="text" name="_replyto">
-  </label>
-  <label>
-    Your message:
-    <textarea name="message"></textarea>
-  </label>
 
-  <!-- your other form fields go here -->
+<form action="https://getsimpleform.com/messages?form_api_token=<form_api_token>" method="post">
 
-  <button type="submit">Send</button>
+  <input type='hidden' name='redirect_to' value='<the complete return url e.g. http://fooey.com/thank-you.html>' />
+
+  <input type='text' name='test' />
+
+  <input type='submit' value='Test form' />
 </form>
+      
 
 ### Repository Contents
 > - Code of Conduct and License
