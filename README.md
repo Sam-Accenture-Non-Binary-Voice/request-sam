@@ -1,4 +1,4 @@
-<img src="Acc_Logo.svg" style="width:100px;" />
+<img src="Acc_Logo.svg" width="200"/>
 
 
 # Landing Page for *Sam*, the Non-Binary TTS Voice
