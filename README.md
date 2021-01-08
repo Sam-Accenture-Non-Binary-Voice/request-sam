@@ -10,11 +10,12 @@ The central assets used in this project are described below and available in a p
 
 <form action="https://formspree.io/nonbinary_voice@accenture.com"
     method="POST">
-  <input type="text" name="Name (First and Last)">
-  <input type="text" name="Organization (Company, University, etc.)">
+  <h2>Name (First and Last)</h2>
+  <input type="text" name="name">
+  <h2>Email</h2>
   <input type="email" name="_replyto">
+  <h2>Message</h2>
   <input type="text" name="message">
-  <input type="text" name="Message">
   <input type="submit" value="Send">
 </form>
       
