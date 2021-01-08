@@ -11,7 +11,7 @@ The central assets used in this project are described below and available in a p
 <form action="https://getsimpleform.com/messages?form_api_token=<form_api_token>" method="post">
 
   <input type='hidden' name='redirect_to' value='<the complete return url e.g. http://fooey.com/thank-you.html>' />
-\
+
   <input type='text' name='test' />
 
   <input type='submit' value='Test form' />
