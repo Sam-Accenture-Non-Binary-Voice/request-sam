@@ -12,7 +12,7 @@ The central assets used in this project are described below and available in a p
     method="POST">
   <h3>Name (First and Last)</h3>
   <input type="text" name="name">
-  <h3>Email</h2>
+  <h3>Email</h3>
   <input type="email" name="_replyto">
   <h3>Organization</h3>
   <input type="text" name="name">
