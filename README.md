@@ -1,33 +1,36 @@
-<img src="Acc_Logo.svg" width="200"/>
+# Sam, the Non-Binary TTS Voice
 
-
-# *Sam*, the Non-Binary TTS Voice
-
-Sam is a non-binary AI-based digital voice solution that can be embedded into any software solution to speak text in a human-sounding voice. Accenture Labs, Accenture's technology R&D function, created Sam in collaboration with Cereproc, a text-to-speech technology provider. By open-sourcing this voice we hope to encourage adoption and creation of others like it in the future, so that there will eventually be a diversity of non-binary voices out in the world.
+[Sam](https://bit.ly/36OjUbt) is a non-binary text-to-speech (TTS) voice that can be embedded into any voice assistant software solution. [Accenture Labs](https://www.accenture.com/us-en/about/accenture-labs-index) created Sam in collaboration with [Cereproc](https://www.cereproc.com/). By open-sourcing the components that we used to create this voice, we hope to encourage adoption and creation of others like it in the future so that there will eventually be a diversity of non-binary voices out in the world.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mL1n5AEFLl4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Request Access to Open Source Library
-The central assets used in this project are described below and available in a private GitHub repository. To request access to this repository, fill out the following form with a brief description of the reason behind your interest.
-
-<form action="https://formspree.io/f/meqpvkrj"
-    method="POST">
-  <h3>Name (First and Last)</h3>
-  <input type="text" name="name">
-  <h3>Email</h3>
-  <input type="email" name="_replyto">
-  <h3>Organization</h3>
-  <input type="text" name="name">
-  <h3>Message</h3>
-  <input type="text" name="message">
-  <input type="submit" value="Send">
-</form>
-      
-
-### Repository Contents
+The assets used in this project are available from a private GitHub repository. The repository contains the following:
 > - Code of Conduct and License
 > - Description of Process
 > - Audio and Transcription assets
 > - Idlak version and Recipe
 > - More (ex. Conference Presentations, etc.)
 
+To request access, please fill out the form below and we'll get back to you as soon as we can.
+
+<div id="contact-form">
+  <form action="https://formspree.io/f/meqpvkrj" method="POST">
+    <h3>First Name*</h3>
+    <input type="text" name="firstName" required>
+    <h3>Last Name*</h3>
+    <input type="text" name="lastName" required>
+    <h3>Email*</h3>
+    <input type="email" name="_replyto" required>
+    <h3>Company or Organization*</h3>
+    <input type="text" name="org" required>
+    <h3>Title*</h3>
+    <input type="text" name="title" required>
+    <h3>Interest in Sam</h3>
+    <textarea name="message" placeholder="Please provide a brief description of why you're interested in Sam, the non-binary TTS voice." type="text" required>
+    <!---<input type="text" name="message" required>-->
+    <h3></h3>
+    <button type="submit">Send</button>
+    <!--<input type="submit" value="Send">-->
+  </form>
+</div>
