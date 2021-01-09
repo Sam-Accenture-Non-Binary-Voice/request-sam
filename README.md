@@ -27,7 +27,7 @@ To request access, please fill out the form below and we'll get back to you as s
     <h3>Title*</h3>
     <input type="text" name="title" required>
     <h3>Interest in Sam</h3>
-    <textarea name="message" placeholder="Please provide a brief description of why you're interested in Sam, the non-binary TTS voice." type="text" required>
+    <textarea name="message" placeholder="Please provide a brief description of why you're interested in Sam, the non-binary TTS voice." type="text" required></textarea>
     <!---<input type="text" name="message" required>-->
     <h3></h3>
     <button type="submit">Send</button>
