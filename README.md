@@ -14,7 +14,7 @@ The assets used in this project are available from a private GitHub repository. 
 
 To request access, please fill out the form below and we'll get back to you as soon as we can.
 
-<div id="contact-form">
+<div id="contact-form" width="600">
   <form action="https://formspree.io/f/meqpvkrj" method="POST">
     <h3>First Name*</h3>
     <input type="text" name="firstName" required>
@@ -28,9 +28,7 @@ To request access, please fill out the form below and we'll get back to you as s
     <input type="text" name="title" required>
     <h3>Interest in Sam</h3>
     <textarea name="message" placeholder="Please provide a brief description of why you're interested in Sam, the non-binary TTS voice." type="text" required></textarea>
-    <!---<input type="text" name="message" required>-->
     <h3></h3>
     <button type="submit">Send</button>
-    <!--<input type="submit" value="Send">-->
   </form>
 </div>
