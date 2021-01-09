@@ -14,7 +14,7 @@ The assets used in this project are available from a private GitHub repository. 
 
 To request access, please fill out the form below and we'll get back to you as soon as we can.
 
-<div id="contact-form" width="600">
+<div id="contact-form">
   <form action="https://formspree.io/f/meqpvkrj" method="POST">
     <h3>First Name*</h3>
     <input type="text" name="firstName" required>

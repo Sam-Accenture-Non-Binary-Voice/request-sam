@@ -1,0 +1,14 @@
+form {
+ width: 600px;
+ margin: auto;
+}
+
+input {
+ width: 500px;
+ height: 25px;
+}
+
+textarea {
+  width: 500px;
+  height: 100px;
+}
