@@ -3,7 +3,9 @@
 
 # *Sam*, the Non-Binary TTS Voice
 
-[Sam](https://bit.ly/36OjUbt) is a non-binary AI-based digital voice solution that can be embedded into any software solution to speak text in a human-sounding voice. Accenture Labs, Accenture's technology R&D function, created Sam in collaboration with Cereproc, a text-to-speech technology provider. By open-sourcing this voice we hope to encourage adoption and creation of others like it in the future, so that there will eventually be a diversity of non-binary voices out in the world.
+Sam is a non-binary AI-based digital voice solution that can be embedded into any software solution to speak text in a human-sounding voice. Accenture Labs, Accenture's technology R&D function, created Sam in collaboration with Cereproc, a text-to-speech technology provider. By open-sourcing this voice we hope to encourage adoption and creation of others like it in the future, so that there will eventually be a diversity of non-binary voices out in the world.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mL1n5AEFLl4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Request Access to Open Source Library
 The central assets used in this project are described below and available in a private GitHub repository. To request access to this repository, fill out the following form with a brief description of the reason behind your interest.
@@ -29,4 +31,3 @@ The central assets used in this project are described below and available in a p
 > - Idlak version and Recipe
 > - More (ex. Conference Presentations, etc.)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mL1n5AEFLl4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
