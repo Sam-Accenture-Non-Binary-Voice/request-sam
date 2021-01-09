@@ -8,12 +8,14 @@
 ## Request Access to Open Source Library
 The central assets used in this project are described below and available in a private GitHub repository. To request access to this repository, fill out the following form with a brief description of the reason behind your interest.
 
-<form action="https://formspree.io/nonbinary_voice@accenture.com"
+<form action="https://formspree.io/f/meqpvkrj"
     method="POST">
   <h3>Name (First and Last)</h3>
   <input type="text" name="name">
   <h3>Email</h2>
   <input type="email" name="_replyto">
+  <h3>Organization</h3>
+  <input type="text" name="name">
   <h3>Message</h3>
   <input type="text" name="message">
   <input type="submit" value="Send">
