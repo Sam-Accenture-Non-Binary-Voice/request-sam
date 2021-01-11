@@ -17,11 +17,13 @@ To request access, please fill out the form below and we'll get back to you as s
 <div id="contact-form">
   <form action="https://formspree.io/f/meqpvkrj" method="POST">
     <h3>First Name*</h3>
-    <input type="text" name="firstName" width="600" required>
+    <input type="text" name="firstName" required>
     <h3>Last Name*</h3>
     <input type="text" name="lastName" required>
     <h3>Email*</h3>
     <input type="email" name="_replyto" required>
+    <h3>GitHub Username</h3>
+    <input type="text" name="username">
     <h3>Company or Organization*</h3>
     <input type="text" name="org" required>
     <h3>Title*</h3>
