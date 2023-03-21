@@ -5,7 +5,7 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mL1n5AEFLl4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Request Access to Open Source Library
-The assets used in this project are now available at: https://github.com/Sam-Accenture-Non-Binary-Voice/non-binary-voice-files. 
+The assets used in this project are now available at: [https://github.com/Sam-Accenture-Non-Binary-Voice/non-binary-voice-files](https://github.com/Sam-Accenture-Non-Binary-Voice/non-binary-voice-files). 
 
 The repository contains the following:
 > - Code of Conduct and License
