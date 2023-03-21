@@ -5,14 +5,17 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mL1n5AEFLl4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Request Access to Open Source Library
-The assets used in this project are available from a private GitHub repository. The repository contains the following:
+The assets used in this project are now available at: https://github.com/Sam-Accenture-Non-Binary-Voice/non-binary-voice-files. 
+
+The repository contains the following:
 > - Code of Conduct and License
 > - Description of Process
 > - Audio and Transcription assets
 > - Idlak version and Recipe
 > - More (ex. Conference Presentations, etc.)
 
-To request access, please fill out the form below and we'll get back to you as soon as we can.
+
+<!-- To request access, please fill out the form below and we'll get back to you as soon as we can.
 
 <div id="contact-form">
   <form action="https://formspree.io/f/meqpvkrj" method="POST">
@@ -33,4 +36,4 @@ To request access, please fill out the form below and we'll get back to you as s
     <h3></h3>
     <button type="submit">Send</button>
   </form>
-</div>
+</div> -->
